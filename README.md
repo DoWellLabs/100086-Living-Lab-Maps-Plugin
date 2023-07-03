@@ -7,3 +7,11 @@
 - Log in to your WordPress admin dashboard.
 - Navigate to "Plugins" in the left-hand menu.
 - Locate the "Maps Plugin" and click on the "Activate" link to activate the plugin.
+
+## Features
+- It returns only the place IDs that do not exist in the database.
+
+  ![Feature_01](https://github.com/DoWellLabs/100086-Living-Lab-Maps-Plugin/assets/47922615/d8bd0a77-cba5-4b08-988d-7f1b118e01d3)
+
+
+
