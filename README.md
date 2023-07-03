@@ -13,5 +13,10 @@
 
   ![Feature_01](https://github.com/DoWellLabs/100086-Living-Lab-Maps-Plugin/assets/47922615/d8bd0a77-cba5-4b08-988d-7f1b118e01d3)
 
+- After verifying the place IDs, we can get the place details.
+
+  ![Feature_02](https://github.com/DoWellLabs/100086-Living-Lab-Maps-Plugin/assets/47922615/287db44c-e9b8-4c57-b993-cf40e6094f2a)
+
+
 
 
